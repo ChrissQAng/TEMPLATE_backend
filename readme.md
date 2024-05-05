@@ -1,5 +1,10 @@
 # Install backend
 
+Wenn diese Template runtergelden wird:
+
+1.- unzip
+2.- npm i
+3.- dein echte .env hinzufügen (muster in .env.sample)
 npm init -y
 
 # npm i express cors multer dotenv morgan mongodb mongoose express-validator
