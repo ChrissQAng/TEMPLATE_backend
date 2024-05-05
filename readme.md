@@ -1,8 +1,8 @@
-Install backend
+# Install backend
 
 npm init -y
 
-npm i express cors multer dotenv morgan mongodb mongoose express-validator
+# npm i express cors multer dotenv morgan mongodb mongoose express-validator
 
 npm install --save-dev nodemon
 
